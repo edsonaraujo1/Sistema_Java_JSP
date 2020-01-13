@@ -1,0 +1,12 @@
+computeSourcePath=true
+contextsDir=C\:\\Program Files\\Apache Software Foundation\\Tomcat 7.0\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+managerUrl=http\://localhost\:8080/manager
+projectsInCp=Servers;Sistema2;
+projectsInSourcePath=Sistema2;
+tomcatBase=C\:\\Program Files\\Apache Software Foundation\\Tomcat 7.0
+tomcatConfigFile=C\:\\Program Files\\Apache Software Foundation\\Tomcat 7.0\\conf\\server.xml
+tomcatDir=C\:\\Program Files\\Apache Software Foundation\\Tomcat 7.0
+tomcatJRE=1361887017028
+tomcatVersion=tomcatV6
